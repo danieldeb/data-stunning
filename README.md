@@ -30,7 +30,7 @@ Once you have a copy of this repository, use it anyway you want. I point my scre
 * [Wiki Loves Earth](http://wikilovesearth.org/) ([Wikipedia](https://en.wikipedia.org/wiki/Wiki_Loves_Earth))
   * [2019 Winners](https://wikimediafoundation.org/news/2019/12/02/imagination-becomes-reality-in-the-winners-of-the-2019-wiki-loves-earth-photo-contest/)
 
-[Unsplash](https://unsplash.com/) is a popular free image source however I can't include any images from unsplash here due to their [license](https://unsplash.com/license).
+[Unsplash](https://unsplash.com/) is a popular free image source however I can't include any images from Unsplash here due to their [license](https://unsplash.com/license).
 
 Other image sources will be added as time goes by. The biggest restriction on adding images is the requirement on an open license. I see a lot of amazing pictures on [reddit](https://www.reddit.com/r/Pictures/) however they are not licensed or are small sizes.
 
